@@ -1,0 +1,37 @@
+.pageDiv{
+    width: 100vw;
+}
+
+.topBarButtons Button{
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+.topBarButtons{
+    margin-left: 58%;
+    
+}
+.topBar{
+    padding: 1.1%;
+    background-color: grey;
+}
+.topBarBrandName{
+    color: white;
+    margin-left: 2%;
+    float: left;
+}
+.refreshButton{
+    margin-left: 1%;
+}
+.batchSelectorDiv{
+    margin-left: 3%;
+    width: 30vw;
+    float: left;
+    /* margin-bottom: 1%; */
+    font-weight: 300;
+    font-size: 18px;
+}
+.batchSelectorDiv table{
+    width: 90%;
+}

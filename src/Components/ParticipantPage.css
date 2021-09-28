@@ -1,0 +1,20 @@
+.pageDiv{
+    width: 100vw;
+}
+.topBarDiv{
+    background-color: grey;
+padding: 1.1%;
+}
+.topBarDivButtons{
+    margin-left: 70%;
+}
+.topBarDivButtons Button{
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.topBarBrandName{
+    color: white;
+    margin-left: 2%;
+    float: left;
+}
